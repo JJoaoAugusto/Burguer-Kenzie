@@ -17,4 +17,8 @@ export const StyledDiv = styled.div`
         background-color: var(--color-grey-300);
         color: var(--color-grey-0);
     }
+
+    .grey-100{
+        color: var(--color-grey-100);
+    }
 `

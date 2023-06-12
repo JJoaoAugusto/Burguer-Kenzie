@@ -44,5 +44,16 @@ export const StyledModal = styled.div`
         gap: 20px;
     }
 
+    .grey-0{
+        color: var(--color-grey-0);
+    }
+
+    .grey-300{
+        color: var(--color-grey-300);
+    }
+
+    .grey-600{
+        color: var(--color-grey-600);
+    }
 
 `

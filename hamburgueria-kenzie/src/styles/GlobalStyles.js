@@ -33,20 +33,4 @@ export default createGlobalStyle`
     button {
         cursor: pointer;
     }
-
-    .grey-0{
-        color: var(--color-grey-0);
-    }
-
-    .grey-100{
-        color: var(--color-grey-100);
-    }
-
-    .grey-300{
-        color: var(--color-grey-300);
-    }
-
-    .grey-600{
-        color: var(--color-grey-600);
-    }
 `
