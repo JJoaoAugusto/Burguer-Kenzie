@@ -16,6 +16,14 @@ export const StyledSection = styled.section`
         border-color: var(--color-primary);
     }
 
+    @media(max-width: 1380px){
+        ul{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+    }
+
     @media(max-width: 700px){
         ul{
             display: flex;

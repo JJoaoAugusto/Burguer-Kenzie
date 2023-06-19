@@ -69,5 +69,8 @@ export const StyledHeader = styled.header`
         .header__container{
             flex-direction: column;
         }
+        .header__nav{
+            min-width: 100%;
+        }
     }
 `
